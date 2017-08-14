@@ -1,0 +1,20 @@
+{
+  "name": "alexa-spieltag",
+  "version": "1.0.0",
+  "description": "Teilt die aktuelle der Fußballbundesliga mit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "fussball",
+    "spieltag"
+  ],
+  "author": "Dirk Ecker",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "cheerio": "^0.22.0"
+  }
+}

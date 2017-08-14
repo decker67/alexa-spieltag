@@ -1,0 +1,5 @@
+GetResults spielergebnisse
+GetResults spieltag
+GetResults fussball
+
+
